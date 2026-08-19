@@ -171,7 +171,7 @@ The HMI is integrated with the PLC and provides a visual representation of the m
 * Integrated automatic and manual operating modes
 * Used sensor feedback and timers for sequential control
 * Simulated and tested the complete system in Factory I/O
-
+<video src="./media/warehouse-demo.mp4" controls width="800"></warhouse video>
 ---
 
 ## 👨‍💻 Author

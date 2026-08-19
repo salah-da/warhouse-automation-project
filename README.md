@@ -11,7 +11,7 @@ The project was designed to reproduce a realistic industrial control architectur
 ## 🎥 Project Demonstration
 
 A complete demonstration of the system is provided in the repository, showing the automated sequence, crane operation, storage process, and HMI interaction.
-![Warehouse HMI](warhouse%20hmi.png)
+![Warehouse HMI](warhouse%20hmi.png)(./warehouse%20video.mp4)
 ---
 
 ## 🏗️ System Architecture

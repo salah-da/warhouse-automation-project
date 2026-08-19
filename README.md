@@ -11,7 +11,7 @@ The project was designed to reproduce a realistic industrial control architectur
 ## 🎥 Project Demonstration
 
 A complete demonstration of the system is provided in the repository, showing the automated sequence, crane operation, storage process, and HMI interaction.
-![Warehouse HMI](warhouse%20hmi.png)(./warehouse%20video.mp4)
+![Warehouse HMI](warhouse%20hmi.png)
 ---
 
 ## 🏗️ System Architecture
@@ -172,6 +172,7 @@ The HMI is integrated with the PLC and provides a visual representation of the m
 * Used sensor feedback and timers for sequential control
 * Simulated and tested the complete system in Factory I/O
 <video src="./warhouse video.mp4" controls width="800"></warehouse video>
+[▶️ Watch the demonstration](./warehouse%20video.mp4)
 ---
 
 ## 👨‍💻 Author
